@@ -1,0 +1,47 @@
+ /* @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Fjalla+One&display=swap'); */
+body {
+background-color: #202040;
+text-align: center;
+}
+
+footer {
+  font-family: "Fjalla One", sans-serif;
+  color: #ffff;
+  padding-top: 100px;
+  padding-bottom: 0;
+  margin: 0;
+
+}
+
+
+/* Top Div */
+
+.main_top {
+  padding-top: 40px;
+  font-family: "Fjalla One", sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  color: #ff6363;
+  padding-bottom: 10px;
+
+}
+
+.Player_dice {
+  text-align: center;
+  font-weight: normal;
+  padding-top: 15px;
+}
+
+.PD_comun {
+  text-align: center;
+   padding-left: 20%;
+
+}
+
+/* Middle Div */
+
+.Player_dice {
+  font-family: "Fjalla One", sans-serif;
+  color: #888888;
+
+}
