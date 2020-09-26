@@ -3,8 +3,8 @@ var i = Math.floor(Math.random()*6)+1;
 
 var randomDiceIMG1 = "dice" + n + ".png";
 var randomDiceIMG2 = "dice" + i + ".png";
-var randomSource1 = "/home/debian55/Roberto/WebDev_bootcamp/dice_webGame/Dicee Challenge - Starting Files/Mis_dados/images/" + randomDiceIMG1;
-var randomSource2 = "/home/debian55/Roberto/WebDev_bootcamp/dice_webGame/Dicee Challenge - Starting Files/Mis_dados/images/" + randomDiceIMG2;
+var randomSource1 = "images/" + randomDiceIMG1;
+var randomSource2 = "images/" + randomDiceIMG2;
 var randomSelect1 = document.querySelectorAll("img")[0];
 var randomSelect2 = document.querySelectorAll("img")[1];
 
